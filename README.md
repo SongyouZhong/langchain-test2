@@ -1,6 +1,6 @@
-# LangGraph 聊天机器人
+# AIDD Agent 聊天机器人
 
-基于 LangGraph 和阿里云通义千问构建的智能聊天机器人，支持 Tavily 搜索引擎实时查询。
+基于 LangGraph 和阿里云通义千问构建的AIDD Agent聊天机器人，支持 Tavily 搜索引擎实时查询。
 
 ## ✨ 功能特点
 
